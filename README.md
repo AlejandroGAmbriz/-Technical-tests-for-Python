@@ -12,7 +12,9 @@ Its purpose is to serve as support for those who wish to improve their skills, e
 
 
 <!-- inicio-indice -->
-
+**Beginner**
+--
+[chain_reversal](beginner/chain_reversal.py)
 <!-- fin-indice -->
 
 ---
