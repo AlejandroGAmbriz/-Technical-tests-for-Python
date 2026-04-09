@@ -15,6 +15,7 @@ Its purpose is to serve as support for those who wish to improve their skills, e
 **Beginner**
 --
 [chain_reversal](beginner/chain_reversal.py)
+
 [palindrome](beginner/palindrome.py)
 [fibonacci](beginner/fibonacci.py)
 <!-- fin-indice -->
